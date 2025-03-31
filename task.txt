@@ -1,0 +1,93 @@
+Task:
+
+Develop a PWA using Flutter for a cafe, where users can:
+
+Browse the menu
+Customize food & beverage orders
+Add items to cart
+Checkout with order summary & payment
+ 
+
+Required Pages:
+
+Home Page: Where featured items, promotions, dynamic offers ticker can be displayed
+Menu Page: List of foods & beverage list with images and descriptions
+Product Details: Customization options (Size, add-ons, extras)
+Cart Page: View, Update or remove items
+Order Summary Page: display order summary with total cost before checkout
+Checkout Page: Payment & order confirmation (Payment is not mandatory, you can display order confirmation on this page)
+ 
+
+You are free to explore and be as creative as you can with the UI elements. Feel free to add any additional features which you think can enhance user experience
+
+
+
+
+
+
+**Slide 1: Title Slide**
+- VIBE Café UI/UX Design
+- Built using Flutter
+- Presented by [Your Name]
+
+**Slide 2: Introduction**
+- Overview of VIBE Café app
+- A seamless food ordering experience
+- Features: menu browsing, cart, reservations, orders, profile management
+
+**Slide 3: Color Scheme & Typography**
+- Primary Colors: [Hex codes]
+- Secondary Colors: [Hex codes]
+- Fonts Used: [Font names]
+- Design consistency for a modern, user-friendly experience
+
+**Slide 4: Home Screen UI**
+- Displays user's name or "Guest"
+- Quick access to Menu, Orders, and Profile
+- Profile section with Orders, Settings, Help & Support
+
+**Slide 5: Menu Screen UI**
+- Categorized food items
+- High-quality images with descriptions
+- Add to cart functionality
+
+**Slide 6: Cart & Checkout UI**
+- View selected items
+- Modify quantity or remove items
+- Payment gateway integration
+
+**Slide 7: Reservations UI**
+- Book a table in advance
+- Select date, time, and number of people
+- Confirmation system
+
+**Slide 8: Orders Screen UI**
+- View past and ongoing orders
+- Order status tracking
+- Reorder functionality
+
+**Slide 9: Profile & Settings UI**
+- Manage user profile
+- Settings options (notifications, preferences)
+- Help & Support section
+
+**Slide 10: User Flow & Navigation**
+- Smooth navigation experience
+- Bottom navigation bar for easy access
+- Intuitive gestures for seamless interaction
+
+**Slide 11: Flutter Widgets & Design Patterns**
+- Use of Material & Cupertino widgets
+- Provider/Bloc for state management
+- Custom UI components for a unique experience
+
+**Slide 12: Final UI Screenshots & Prototypes**
+- Showcasing completed designs
+- Screenshots from the app
+- Interactive prototype (if available)
+
+**Slide 13: Conclusion & Future Enhancements**
+- Summary of design choices
+- Possible enhancements: AI-based recommendations, loyalty program
+- Thank you slide with contact info
+
